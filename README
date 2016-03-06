@@ -1,0 +1,30 @@
+Period-2 Node.js, Express + JavaScript & Backend Testing
+
+By Bente Andersen
+
+This file is meant to give you an overwiev of this hand in. I will make one file for each question, but the example
+code for this hand in will come from two different git-hub repositories I have made. I will link to these through here,
+and tell you where to look for what in each question.
+
+The repositories are named:
+
+JSPeriod2-NodelExpress-JokeApiEx - https://github.com/Bente80/JSPeriod2-NodelExpress-JokeApiEx
+* This project is my solution to the questions found in ExpressExercises.df, and ex 4&5 in TestExercises.pdf found on
+  Fronter.
+
+JSPeriod2-NodeExpress-Test - https://github.com/Bente80/JSPeriod2-NodeExpress-Test
+* This project covers the Basic Mocca/chai testing and Asynchronous in TestExercises.pdf.
+
+Sources:                                                                        For questions:
+https://www.quora.com/Why-isnt-JavaScript-used-for-back-end-development             01
+http://blog.modulus.io/top-10-reasons-to-use-node                                   01 & 02
+http://js2016.azurewebsites.net/node1/NodeIntro.html#4                              02
+http://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/ 03
+http://rowanmanning.com/posts/node-cluster-and-express/                             03
+http://expressjs.com/en/guide/using-middleware.html                                 05
+http://js2016.azurewebsites.net/express1/express1.html#12                           06
+https://www.npmjs.com/package/express-session                                       06
+http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm                           06
+http://tott-meetup.readthedocs.org/en/latest/_static/casts/jade.html#/3             07
+http://www.javaworld.com/article/2076174/java-web-development/jsp-templates.html    07
+http://js2016.azurewebsites.net/test1/unitTestingBackend.html#19                    09 & 10
